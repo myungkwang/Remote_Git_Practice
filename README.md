@@ -4,4 +4,4 @@ exam
 
 my first git use 
 
-and solution to a exam
+and solution to a https://github.com/leelang7/Git-practice/blob/main/2025-Git.md
